@@ -1,0 +1,23 @@
+node --version
+
+npm --version
+
+npm install -g @angular/cli
+
+ng version
+
+ng new kt-angular
+
+ng serve
+
+ng generate module components
+
+ng generate component ems-button
+
+ng generate module home --routing
+
+ng generate component home
+
+ng generate module another-page
+
+ng generate component another-page
