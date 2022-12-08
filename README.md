@@ -25,3 +25,29 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## basic script
+
+1. `node --version`
+
+2. `npm --version`
+
+3. `npm install -g @angular/cli`
+
+4. `ng version`
+
+5. `ng new kt-angular`
+
+6. `ng serve`
+
+7. `ng generate module components`
+
+8. `ng generate component ems-button`
+
+9. `ng generate module home --routing`
+
+10. `ng generate component home` 
+
+11. `ng generate module another-page`
+
+12. `ng generate component another-page`
